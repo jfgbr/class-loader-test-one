@@ -65,7 +65,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.jgalante</groupId>
-			<artifactId>class-loader</artifactId>
+			<artifactId>class-loader-main</artifactId>
 			<version>0.0.1</version>
 			<scope>provided</scope>
 		</dependency>
